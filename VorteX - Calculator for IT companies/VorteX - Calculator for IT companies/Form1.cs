@@ -16,5 +16,10 @@ namespace VorteX___Calculator_for_IT_companies
         {
             InitializeComponent();
         }
+
+        private void lblLevelSection_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
